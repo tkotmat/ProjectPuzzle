@@ -1,2 +1,2 @@
 # ProjectPuzzle
-a simple puzzle game where simple geometric shapes are used to build levels and all the shapes move and interact using physics
+a simple puzzle game where simple geometric shapes are used to build levels and all the shapes move and interact using physics."The levels consist of a single square containing cubic shapes. There are two directions for cube movement: horizontal and vertical. When the player moves the player's cube, all dynamic cubes in one of these two directions also move in the same direction. Additionally, there are cubes that can push other cubes, as well as static cubes. Based on these mechanics, levels are created that the player must complete by solving logical puzzles."
